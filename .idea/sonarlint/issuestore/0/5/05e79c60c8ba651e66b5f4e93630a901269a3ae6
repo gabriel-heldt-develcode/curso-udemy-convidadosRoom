@@ -1,0 +1,13 @@
+
+I
+java:S1444
+"-Make this "public static ausente" field final(’Ûÿm8Î„“œ¯/
+V
+java:S1118":Add a private constructor to hide the implicit public one.(Ý«êH8ä“‰œ¯/
+Q
+java:S1444	"/Make this "public static confimado" field final(é¾ÚÚûÿÿÿÿ8íã’œ¯/
+h	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ý«êH8íã’œ¯/
+V
+java:S1444"4Make this "public static nao_confirmado" field final(þ”Ö“þÿÿÿÿ8•°“œ¯/
+{
+java:S3008"YRename this field "nao_confirmado" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(þ”Ö“þÿÿÿÿ8•°“œ¯/

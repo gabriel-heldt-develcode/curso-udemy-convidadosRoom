@@ -1,0 +1,7 @@
+
+‡
+java:S1450"jRemove the "convidadosAusentesViewModel" field and declare it as a local variable in the relevant methods.(âÌ½Æ8ÏæÁš¯/
+\
+java:S1068"?Remove this unused "convidadosAusentesViewModel" private field.(âÌ½Æ8ÿ·Âš¯/
+U
+java:S1161":Add the "@Override" annotation above this method signature(ÿ£º¡ÿÿÿÿÿ
